@@ -1,0 +1,14 @@
+{
+  "name": "deck-of-cards",
+  "version": "1.0.0",
+  "description": "deck of poker-style playing cards",
+  "main": "CardGenerator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Vikrant Malik",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
